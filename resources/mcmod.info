@@ -1,0 +1,20 @@
+[
+{
+  "modid": "bdlib",
+  "name": "BD Lib",
+  "description": "",
+  "version": "@BDLIB_VER@",
+  "url": "bdew.net/mods/",
+  "updateUrl": "",
+  "authorList": [
+    "bdew"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
